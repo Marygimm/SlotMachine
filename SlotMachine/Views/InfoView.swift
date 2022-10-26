@@ -20,7 +20,7 @@ struct InfoView: View {
         Section(header: Text("About the application")) {
           FormRowView(firstItem: "Application", secondItem: "Slot Machine")
           FormRowView(firstItem: "Platforms", secondItem: "iPhone, iPad, Mac")
-          FormRowView(firstItem: "Developer", secondItem: "John / Jane")
+          FormRowView(firstItem: "Developer", secondItem: "Marygimm Branco")
           FormRowView(firstItem: "Designer", secondItem: "Robert Petras")
           FormRowView(firstItem: "Music", secondItem: "Dan Lebowitz")
           FormRowView(firstItem: "Website", secondItem: "https://credo.academy")
